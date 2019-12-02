@@ -64,3 +64,5 @@ typings/
 virtenv/
 .gitignore
 .vscode/*
+__pycache__/*
+tde/*
