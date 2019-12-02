@@ -61,8 +61,8 @@ typings/
 .next
 
 
-virtenv/
 .gitignore
 .vscode/*
 __pycache__/*
 tde/*
+virtenv/*
