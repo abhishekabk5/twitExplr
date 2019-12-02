@@ -63,4 +63,4 @@ typings/
 
 virtenv/
 .gitignore
-.vscode/settings.json
+.vscode/*
