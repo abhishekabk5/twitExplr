@@ -61,4 +61,6 @@ typings/
 .next
 
 
-virenv/*
+virtenv/
+.gitignore
+.vscode/*
